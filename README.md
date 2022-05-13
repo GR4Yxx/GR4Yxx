@@ -1,7 +1,8 @@
 [![MasterHead](https://github.com/GR4Yxx/GR4Yxx/blob/e723fdce8da5a138e1cd7a9efc526241d27e9222/header.png)](https://)
 
 <h1 align="center">Solving Problems In Creative Ways</h1>
-<h3 align="center">In the near future knowing how to code will be as nessecary as knowing how to write today</h3>
+<h3 align="center">In the near future knowing how to code will be as necessary as knowing how to write today</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gr4yxx&label=Profile%20views&color=0e75b6&style=flat" alt="gr4yxx" /> </p>
 
