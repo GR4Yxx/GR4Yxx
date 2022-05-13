@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Joshua Dsouza</h1>
-<h3 align="center">The metaverse can be HUGE with AR and VR</h3>
+<h3 align="center">In the near future knowing how to code will be as nessecary as knowing how to write today</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gr4yxx&label=Profile%20views&color=0e75b6&style=flat" alt="gr4yxx" /> </p>
 
