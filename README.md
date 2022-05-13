@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/GR4Yxx/GR4Yxx/blob/69ae4904a0b6713164fa0bb10989665ab6d19bc8/header.png)](https://)
 
-<h1 align="center">Hey there! I'm Joshua Dsouza</h1>
+<h1 align="center">Solving Problems In Creative Ways</h1>
 <h3 align="center">In the near future knowing how to code will be as nessecary as knowing how to write today</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gr4yxx&label=Profile%20views&color=0e75b6&style=flat" alt="gr4yxx" /> </p>
