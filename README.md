@@ -2,7 +2,7 @@
 
 <h1 align="center">Solving Problems In Creative Ways</h1>
 <h3 align="center">In the near future knowing how to code will be as necessary as knowing how to write today</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.gif"/>
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gr4yxx&label=Profile%20views&color=0e75b6&style=flat" alt="gr4yxx" /> </p>
 
