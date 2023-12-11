@@ -20,7 +20,7 @@
 
 - 📫 Feel free to reach me at **xpjosh10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_5JZRGjP4lI60SAoapbz4ZF7MtvbV5ac/view?usp=sharing](https://drive.google.com/file/d/1_5JZRGjP4lI60SAoapbz4ZF7MtvbV5ac/view?usp=sharing)
+- 📄 Know about my experiences
 
 - ⚡ Fun fact **Ctrl-C, Ctrl-V and Ctrl-Z have saved more lives than Batman**
 
