@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gr4yxx&label=Profile%20views&color=0e75b6&style=flat" alt="gr4yxx" /> </p>
 
-- 🔭 I’m currently working on [Virtual College Tour](coming soon)
+- 🔭 I’m currently working on improving my Software Engineering Skills!
 
-- 🌱 I’m currently learning **Unreal Engine 5**
+- 🌱 I’m currently learning **TensorFlow**
 
 - 👯 I’m looking to collaborate on **Game Dev/Flutter Dev**
 
