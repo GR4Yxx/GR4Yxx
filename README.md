@@ -1,3 +1,29 @@
+<div align="center">
+
+<a href="https://joshuadsouza.dev">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a0a00,100:2d1200&height=200&section=header&text=Joshua%20Dsouza&fontSize=50&fontColor=f5f0e8&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%20Builder%20%7C%20XR%20Developer&descAlignY=55&descColor=e8541a&animation=fadeIn" />
+</a>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E8541A&center=true&vCenter=true&width=700&lines=Building+AI-native+systems+from+scratch.;Full-stack+engineer+%2B+LLM+deployer.;Shipped+award-winning+VR+at+MESH+Labs.;Currently%3A+nOS+%2B+InfraPlayground.;Graduating+May+2026.+Open+to+work." alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-joshuadsouza.dev-e8541a?style=for-the-badge&logo=googlechrome&logoColor=f5f0e8)](https://joshuadsouza.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-xjosh-c0392b?style=for-the-badge&logo=linkedin&logoColor=f5f0e8)](https://linkedin.com/in/xjosh)
+[![Email](https://img.shields.io/badge/Email-xpjosh10@gmail.com-d4a017?style=for-the-badge&logo=gmail&logoColor=0a0a0a)](mailto:xpjosh10@gmail.com)
+
+</div>
+
+---
+
+## ⚡ Who I Am
+Full-stack engineer entering the workforce at the exact moment AI is compressing
+what one engineer can build by 10x. 3 years production experience across
+microservices, cloud infra, mobile, and XR — now shipping AI-native systems
+that would've taken a team to build just two years ago.
+
 - 🧠 **Currently building:** nOS — a voice-controlled AI OS running LLaMA 3 on bare metal
 - 🏗️ **Also building:** InfraPlayground — drag-and-drop system design that spins up real Docker containers
 - 🏆 **Award:** 2025 WateReuse Award for VR work at MESH Labs
